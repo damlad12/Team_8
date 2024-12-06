@@ -1,2 +1,2 @@
-This repository is the initial step of our project, which is about running the baseline code that we want to use to develope our own method. It contains the Llama-7B model, and the Alpaca-LoRA_7B weights, which are obtained after training the llama model with alpaca dataset.   
+This repository is the initial step of our project, which is about running the baseline code we want to use to develope our own method. It contains the Llama-7B model, and the Alpaca-LoRA_7B weights, which are obtained after training the llama model with alpaca dataset.   
 Using this repo, we resumed training the alpaca-lora weights with the recommendation prompts and saved them. Then, we can test the model on the the test data to check its performance.<br />   
